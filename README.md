@@ -1,2 +1,2 @@
-# wordpress
-个人博客
+# git
+学习git
